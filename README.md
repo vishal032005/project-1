@@ -1,2 +1,2 @@
-# project-1
-This is my first Git Repository
+Hi!
+My name is Vishal Kumar. I am a computer science & engineering student.
